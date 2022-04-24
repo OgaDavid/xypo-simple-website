@@ -370,4 +370,7 @@ flex-basis: 40%;
         flex-basis: 50%;
         margin-bottom: 30px;
     }
+    .about-left-col {
+        margin-top: -100px;
+    }
 }
